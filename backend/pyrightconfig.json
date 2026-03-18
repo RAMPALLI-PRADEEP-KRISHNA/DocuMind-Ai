@@ -1,0 +1,12 @@
+{
+  "pythonVersion": "3.13",
+  "venvPath": "c:\\RAG project\\DocuMind-AI\\backend",
+  "venv": "venv",
+  "include": ["app"],
+  "exclude": ["venv"],
+  "extraPaths": ["c:\\RAG project\\DocuMind-AI\\backend\\venv\\Lib\\site-packages"],
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none",
+  "reportMissingImports": "none",
+  "reportAttributeAccessIssue": "none"
+}
